@@ -2,7 +2,7 @@
 
 Designed and deployed a robust potato illness classification system based on TensorFlow and Keras, delivering accurate illness prediction via convolutional neural networks (CNNs).
 
-## Dataset [Source](https://www.kaggle.com/arjuntejaswi/plant-village) 
+## Dataset:  [Source](https://www.kaggle.com/arjuntejaswi/plant-village) 
 
 ## Project Highlights
 
